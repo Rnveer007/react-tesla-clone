@@ -35,7 +35,7 @@ function Home() {
         leftBtn="Custom Order"
         rightBtn="Existing Inventory"
         bgImage={modely}
-      />˝
+      />
       <Section
         heading="Model X"
         tagline="Order Online for touchless delivery"
@@ -63,7 +63,6 @@ function Home() {
         leftBtn="Custom Order"
         bgImage={accessories}
       />
-
     </>
   );
 }
