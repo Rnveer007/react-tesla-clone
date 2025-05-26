@@ -1,5 +1,4 @@
 @import "tailwindcss";
-
 * {
   padding: 0;
   margin: 0;
@@ -31,9 +30,6 @@ section {
   margin-top: 10rem;
 }
 
-/* .bottom {
-  margin-bottom: 2.8rem;
-} */
 
 .btnLeft,
 .btnRight {
